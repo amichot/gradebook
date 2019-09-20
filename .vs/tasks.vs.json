@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-GradeBook",
+      "appliesTo": "src/GradeBook/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-gradebook",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
